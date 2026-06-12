@@ -1,1 +1,5 @@
 .venv/
+
+mf_tutorial_project/logs/
+mf_tutorial_project/target/
+
